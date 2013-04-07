@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Baumarkt</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Find´s im Baumarkt</string>
+    <string name="Button">Suchen</string>
+      <string name="Button2">Kategorie</string>
+
+</resources>
